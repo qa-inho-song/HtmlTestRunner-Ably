@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: HtmlTestRunner-Ably
+Version: 1.0.3
+Summary: A customized version of HtmlTestRunner with exception handling
+Home-page: https://github.com/qa-inho-song/HtmlTestRunner-Ably
+Author: Inho Song
+Author-email: ablyqa@a-bly.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+License-File: AUTHORS.md
+
+# HtmlTestRunner-Ably
+
+HtmlTestRunner-Ably is a customized version of HtmlTestRunner that adds exception handling when running on Python 3.10 and later versions.
+
+## Installation
+
+```bash
+pip install HtmlTestRunner-Ably
+
+
